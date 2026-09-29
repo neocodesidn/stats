@@ -7,18 +7,9 @@ repo: neoblox-status
 sites:
   - name: NEOBLOX Website
     url: https://neoblox.biz.id
-    icon: https://neoblox.biz.id/favicon.ico
-
   - name: NEOBLOX Share Code
     url: https://neoblox.biz.id/share-code
     icon: https://neoblox.biz.id/favicon.ico
-
-  - name: NEOBLOX API v1
-    url: https://neoblox.biz.id/api/v1/notifications
-    expectedStatusCodes:
-      - 200
-      - 401
-      - 403
 
 status-website:
   name: NEOBLOX Status
