@@ -9,7 +9,6 @@ sites:
     url: https://neoblox.biz.id
   - name: NEOBLOX Share Code
     url: https://neoblox.biz.id/share-code
-    icon: https://neoblox.biz.id/favicon.ico
 
 status-website:
   name: NEOBLOX Status
