@@ -22,17 +22,17 @@
     "url": "https://neoblox.biz.id/share-code",
     "icon": "https://icons.duckduckgo.com/ip3/neoblox.biz.id.ico",
     "slug": "neoblox-share-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2592,
-    "timeDay": 3861,
-    "timeWeek": 2592,
-    "timeMonth": 2592,
-    "timeYear": 2592,
+    "time": 2300,
+    "timeDay": 2350,
+    "timeWeek": 2300,
+    "timeMonth": 2300,
+    "timeYear": 2300,
     "dailyMinutesDown": {}
   }
 ]
