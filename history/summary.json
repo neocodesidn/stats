@@ -4,19 +4,20 @@
     "url": "https://neoblox.biz.id",
     "icon": "https://icons.duckduckgo.com/ip3/neoblox.biz.id.ico",
     "slug": "neoblox-website",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2102,
-    "timeDay": 1690,
-    "timeWeek": 1824,
-    "timeMonth": 2102,
-    "timeYear": 2102,
+    "status": "up",
+    "uptime": "98.25%",
+    "uptimeDay": "83.78%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
+    "time": 2035,
+    "timeDay": 1528,
+    "timeWeek": 1545,
+    "timeMonth": 2035,
+    "timeYear": 2035,
     "dailyMinutesDown": {
-      "2026-10-08": 5
+      "2026-10-09": 139,
+      "2026-10-08": 95
     }
   },
   {
@@ -24,20 +25,22 @@
     "url": "https://neoblox.biz.id/share-code",
     "icon": "https://icons.duckduckgo.com/ip3/neoblox.biz.id.ico",
     "slug": "neoblox-share-code",
-    "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
-    "time": 1853,
-    "timeDay": 967,
-    "timeWeek": 1819,
-    "timeMonth": 1853,
-    "timeYear": 1853,
+    "status": "up",
+    "uptime": "96.39%",
+    "uptimeDay": "84.12%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
+    "time": 2001,
+    "timeDay": 2448,
+    "timeWeek": 1892,
+    "timeMonth": 2001,
+    "timeYear": 2001,
     "dailyMinutesDown": {
       "2026-10-03": 248,
-      "2026-10-06": 4
+      "2026-10-06": 4,
+      "2026-10-09": 139,
+      "2026-10-08": 90
     }
   }
 ]
